@@ -18,7 +18,7 @@ using System.Text;
 namespace Backend
 {
     public class Program
-    {
+    { 
         private static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
