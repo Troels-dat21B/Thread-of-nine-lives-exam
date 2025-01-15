@@ -279,7 +279,7 @@ jobs:
         run: npm i -g @hoppscotch/cli
 
       - name: Test CardEndpoints
-        run: hopp test -e cm32vkcrw00dhh7mfs5l34099 cm338q223000613cpr6vcbtuk --token ${{ secrets.HOPPSCOTCHPAT }}
+        run: hopp test -e cm32vkcrw00dhh7mfs5l34099 cm5wgg0ed0015wdop0iytrxnu --token ${{ secrets.HOPPSCOTCHPAT }}
 
 
   Integration_and_unit_tests:
